@@ -1,0 +1,10 @@
+[package]
+name = "vrt_aimbot"
+version = "0.1.0"
+authors = ["john <me@example.com>"]
+edition = "2018"
+
+[dependencies]
+enigo = "0.0.12"
+scrap = "0.5.0"
+repng = "0.2.2"
